@@ -8,7 +8,7 @@ Por que utilizar o git como controle de versionamento ?
 R: Na minha visão utilizar o git é como um complemento obrigatório, muito necessário para o desenvolvimento de um projeto sendo ele grande ou pequeno. O quanto mais controle você tiver de suas alterções feitas em seu projeto, mais organizado será as tarefas para serem feitas. A sua arquitetura descentralizada é o que faz com que o git seja diferenciado em relação às outras opções de sistemas similares. O subversion e CSV, por exemplo, possuem uma arquitetura centralizada, eles contam com um repositório central. A desvantagem é a baixa performace que essas duas tem por ser centralizada sua arquitetura.
 
 Quais as vantagens do git ?
-R: 
+R: As vantagens propostas pelo git são a performance, segurança e a flexibilidade. A sua velocidade durante o desenvolvimento de um software é gigantesco comparada com outros sistemas similares ao git. Ele pode ser executado também sem necessáriamente ter uma conexão com a internet. O git é o melhor em termos de segurança também pois todo seu codigo fonte ele é criptografado com o hashing SHA1. E também a flexibilidade do git ele possui e suporta varios fluxos de desenvolvimento entrega uma incrivel eficiencia em projetos de todos os portes.
 
 Qual a importancia da utilização do controle de versionamento no desenvolvimento de um software ?
 R: 
