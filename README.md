@@ -11,7 +11,7 @@ Quais as vantagens do git ?
 R: As vantagens propostas pelo git são a performance, segurança e a flexibilidade. A sua velocidade durante o desenvolvimento de um software é gigantesco comparada com outros sistemas similares ao git. Ele pode ser executado também sem necessáriamente ter uma conexão com a internet. O git é o melhor em termos de segurança também pois todo seu codigo fonte ele é criptografado com o hashing SHA1. E também a flexibilidade do git ele possui e suporta varios fluxos de desenvolvimento entrega uma incrivel eficiencia em projetos de todos os portes.
 
 Qual a importancia da utilização do controle de versionamento no desenvolvimento de um software ?
-R: 
+R: Durante o desenvolvimento de um projeto, um programador vai escrever um codigo e vai salva-lo e cada vez esse codigo vai ficando mais complexo e complexo, portanto imagine sem um controle do historico do codigo como seria a manutenção desse software irá ficar muito complicada. Então o versionamento ele vai te ajudar na manutenção, recuperação de alterações, bugs de um software. O git é o melhor versionador de codigo da atualidade todos utilizam tudo isso pela sua performance e flexibilidade que existe nele.
 
 Cite pelo menos três ferramentas de controle de versão e faça um breve detalhamento sobre cada uma delas.
 R: 
