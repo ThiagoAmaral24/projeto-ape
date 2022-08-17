@@ -1,0 +1,28 @@
+.titulo {
+  display: flex;
+  padding-top: 0.4em;
+  padding-bottom: 0.2em;
+  font-family: "Lucida Sans";
+  margin: 0;
+  width: auto;
+  justify-content: center;
+}
+
+.resposta {
+  color: rgb(211, 0, 0);
+  font-family: "Lucida Sans";
+  font-size: 14px;
+}
+
+.div-space {
+  padding-top: 5px;
+  display: grid;
+}
+
+.page-1 {
+  font-family: "Lucida Sans";
+  font-size: 14px;
+  padding-top: 13px;
+  padding-left: 10px;
+  display: flex;
+}

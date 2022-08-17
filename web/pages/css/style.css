@@ -1,0 +1,32 @@
+.bbb li:hover {
+    animation: line 1s;
+}
+.bbb li:hover a {
+    color: #000000;
+}
+.bbb li:not(:last-child) {
+    margin-right: 30px;
+}
+@keyframes line {
+    0% {
+       background-position: 390px;
+   }
+}
+
+.aaa{
+    display: flex;
+    padding-top: 10px;
+    justify-content: center;
+    width: 100%;
+}
+
+.bbb{
+    list-style: none;
+    float: left;
+    display: flex;
+    font-size: 22px;
+    color: #777;
+    text-decoration: none;
+    transition: all 0.45s;
+    padding-left: 3px;
+}
